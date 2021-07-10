@@ -1,0 +1,104 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?f5b12584ac8a2ee4a6f31081d8b5aae6") format("truetype"),
+url("./flaticon.woff?f5b12584ac8a2ee4a6f31081d8b5aae6") format("woff"),
+url("./flaticon.woff2?f5b12584ac8a2ee4a6f31081d8b5aae6") format("woff2"),
+url("./flaticon.eot?f5b12584ac8a2ee4a6f31081d8b5aae6#iefix") format("embedded-opentype"),
+url("./flaticon.svg?f5b12584ac8a2ee4a6f31081d8b5aae6#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-right-arrow:before {
+    content: "\f101";
+}
+.flaticon-loupe:before {
+    content: "\f102";
+}
+.flaticon-down-arrow:before {
+    content: "\f103";
+}
+.flaticon-call:before {
+    content: "\f104";
+}
+.flaticon-envelope:before {
+    content: "\f105";
+}
+.flaticon-clock:before {
+    content: "\f106";
+}
+.flaticon-menu:before {
+    content: "\f107";
+}
+.flaticon-left-arrow:before {
+    content: "\f108";
+}
+.flaticon-microscope:before {
+    content: "\f109";
+}
+.flaticon-flask:before {
+    content: "\f10a";
+}
+.flaticon-lab-tool:before {
+    content: "\f10b";
+}
+.flaticon-checkmark:before {
+    content: "\f10c";
+}
+.flaticon-sugar-blood-level:before {
+    content: "\f10d";
+}
+.flaticon-biological:before {
+    content: "\f10e";
+}
+.flaticon-lungs:before {
+    content: "\f10f";
+}
+.flaticon-heart-rate:before {
+    content: "\f110";
+}
+.flaticon-checked:before {
+    content: "\f111";
+}
+.flaticon-user:before {
+    content: "\f112";
+}
+.flaticon-telephone-call:before {
+    content: "\f113";
+}
+.flaticon-calendar:before {
+    content: "\f114";
+}
+.flaticon-plus:before {
+    content: "\f115";
+}
+.flaticon-double-right-arrows-angles:before {
+    content: "\f116";
+}
+.flaticon-locator:before {
+    content: "\f117";
+}
+.flaticon-facebook:before {
+    content: "\f118";
+}
+.flaticon-twitter:before {
+    content: "\f119";
+}
+.flaticon-pinterest:before {
+    content: "\f11a";
+}
+.flaticon-linkedin:before {
+    content: "\f11b";
+}
+.flaticon-laboratory:before {
+    content: "\f11c";
+}

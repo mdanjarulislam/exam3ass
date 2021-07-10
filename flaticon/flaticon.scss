@@ -1,0 +1,137 @@
+$flaticon-font: "flaticon";
+
+@font-face {
+    font-family: $flaticon-font;
+    src: url("./flaticon.ttf?f5b12584ac8a2ee4a6f31081d8b5aae6") format("truetype"),
+url("./flaticon.woff?f5b12584ac8a2ee4a6f31081d8b5aae6") format("woff"),
+url("./flaticon.woff2?f5b12584ac8a2ee4a6f31081d8b5aae6") format("woff2"),
+url("./flaticon.eot?f5b12584ac8a2ee4a6f31081d8b5aae6#iefix") format("embedded-opentype"),
+url("./flaticon.svg?f5b12584ac8a2ee4a6f31081d8b5aae6#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon-map: (
+    "right-arrow": "\f101",
+    "loupe": "\f102",
+    "down-arrow": "\f103",
+    "call": "\f104",
+    "envelope": "\f105",
+    "clock": "\f106",
+    "menu": "\f107",
+    "left-arrow": "\f108",
+    "microscope": "\f109",
+    "flask": "\f10a",
+    "lab-tool": "\f10b",
+    "checkmark": "\f10c",
+    "sugar-blood-level": "\f10d",
+    "biological": "\f10e",
+    "lungs": "\f10f",
+    "heart-rate": "\f110",
+    "checked": "\f111",
+    "user": "\f112",
+    "telephone-call": "\f113",
+    "calendar": "\f114",
+    "plus": "\f115",
+    "double-right-arrows-angles": "\f116",
+    "locator": "\f117",
+    "facebook": "\f118",
+    "twitter": "\f119",
+    "pinterest": "\f11a",
+    "linkedin": "\f11b",
+    "laboratory": "\f11c",
+);
+
+.flaticon-right-arrow:before {
+    content: map-get($flaticon-map, "right-arrow");
+}
+.flaticon-loupe:before {
+    content: map-get($flaticon-map, "loupe");
+}
+.flaticon-down-arrow:before {
+    content: map-get($flaticon-map, "down-arrow");
+}
+.flaticon-call:before {
+    content: map-get($flaticon-map, "call");
+}
+.flaticon-envelope:before {
+    content: map-get($flaticon-map, "envelope");
+}
+.flaticon-clock:before {
+    content: map-get($flaticon-map, "clock");
+}
+.flaticon-menu:before {
+    content: map-get($flaticon-map, "menu");
+}
+.flaticon-left-arrow:before {
+    content: map-get($flaticon-map, "left-arrow");
+}
+.flaticon-microscope:before {
+    content: map-get($flaticon-map, "microscope");
+}
+.flaticon-flask:before {
+    content: map-get($flaticon-map, "flask");
+}
+.flaticon-lab-tool:before {
+    content: map-get($flaticon-map, "lab-tool");
+}
+.flaticon-checkmark:before {
+    content: map-get($flaticon-map, "checkmark");
+}
+.flaticon-sugar-blood-level:before {
+    content: map-get($flaticon-map, "sugar-blood-level");
+}
+.flaticon-biological:before {
+    content: map-get($flaticon-map, "biological");
+}
+.flaticon-lungs:before {
+    content: map-get($flaticon-map, "lungs");
+}
+.flaticon-heart-rate:before {
+    content: map-get($flaticon-map, "heart-rate");
+}
+.flaticon-checked:before {
+    content: map-get($flaticon-map, "checked");
+}
+.flaticon-user:before {
+    content: map-get($flaticon-map, "user");
+}
+.flaticon-telephone-call:before {
+    content: map-get($flaticon-map, "telephone-call");
+}
+.flaticon-calendar:before {
+    content: map-get($flaticon-map, "calendar");
+}
+.flaticon-plus:before {
+    content: map-get($flaticon-map, "plus");
+}
+.flaticon-double-right-arrows-angles:before {
+    content: map-get($flaticon-map, "double-right-arrows-angles");
+}
+.flaticon-locator:before {
+    content: map-get($flaticon-map, "locator");
+}
+.flaticon-facebook:before {
+    content: map-get($flaticon-map, "facebook");
+}
+.flaticon-twitter:before {
+    content: map-get($flaticon-map, "twitter");
+}
+.flaticon-pinterest:before {
+    content: map-get($flaticon-map, "pinterest");
+}
+.flaticon-linkedin:before {
+    content: map-get($flaticon-map, "linkedin");
+}
+.flaticon-laboratory:before {
+    content: map-get($flaticon-map, "laboratory");
+}

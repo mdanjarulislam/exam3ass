@@ -1,0 +1,839 @@
+
+
+
+@media all and (max-width:1400px){
+
+    .icon-right {
+        top: 35px;
+    }
+    .testing-right {
+        padding: 33px 20px;
+        border-radius: 10px;
+        margin-top: 15px;
+    }
+
+   
+
+}
+
+@media all and (max-width:1245px) {
+
+
+    .icon .clock {
+        font-size: 10px;
+       
+    }
+
+    .icon .clock-icon {
+        font-size: 10px;
+      
+    }
+    
+    .icon .phone {
+        font-size: 10px;
+        
+    }
+    
+    .menu ul li a {
+        padding: 0 5px;
+        
+    }
+    .search-icon {
+        font-size: 13px;
+        margin-left: 15px;
+       
+    }
+   
+    .menu-icon {
+        font-size: 15px;
+        
+    }
+    .icon-right {
+        top: 45px;
+        right:-40px; 
+    }
+    .image .top {
+        
+        font-size: 40px;
+         
+    }
+    .image p {
+        width: 55%;
+        font-size: 19px;
+        top: 96px;
+        
+    }
+    .arrow-icon-prev {
+       
+        opacity: 0;
+        visibility: hidden;
+        height: 0;
+    }
+    .arrow-icon-next {
+       
+        opacity: 0;
+        visibility: hidden;
+        height: 0;
+    }
+    
+.pricing-section .p-table {
+ 
+	margin-top: 30px;
+}
+
+.about-text h1 {
+ 
+	margin-bottom: 10px;
+	font-size: 25px;
+	line-height: 40px;
+}
+
+.about-text .about-line li {
+ 
+	font-size: 17px;
+	line-height: 32px;
+	 
+}
+.s-table {
+ 
+	margin-bottom: 20px;
+	margin-top: 15px;
+}
+.s-table {
+	width: 90%;
+	margin: 20px auto;
+	z-index: 99;
+}
+
+.testing-left h1 {
+ 
+	margin-bottom: 15px;
+	font-size: 25px;
+}
+.testing-left p {
+	font-size: 17px;
+	 
+}
+.text-left {
+ 
+	width: 50%;
+	 
+}
+.percent-right.seventyeight {
+ 
+	left: 208px;
+}
+.percent-right.eightyeight {
+	 
+	left: 255px;
+}
+.percent-right.fiftyeight {
+ 
+	left: 120px;
+}
+ 
+.footertop-item {
+	margin: 20px 0;
+}
+
+.header-top {
+	position: fixed;
+	z-index: 1;
+	width: 100%;
+	display: none;
+}
+
+
+.header-bottom {
+	
+	top: 0px;
+}
+.banner-section{
+    position: relative;
+    top: 81px;
+      
+ }
+
+ .menu ul li a {
+	font-size: 9px;
+	padding: 0 4px;
+}
+
+.image .top {
+	width: 100%;
+	margin: 70px 0px auto;
+	font-size: 30px;
+}
+
+
+.image p {
+	width: 70%;
+	font-size: 15px;
+	top: 96px;
+}
+
+.banner-section{
+    position: relative;
+    top: 0px;
+      
+ }
+
+
+
+}
+
+
+
+
+@media all and (max-width:1220px) {
+    .icon .clock {
+        font-size: 10px;
+       
+    }
+
+    .icon .clock-icon {
+        font-size: 10px;
+      
+    }
+    
+    .icon .phone {
+        font-size: 10px;
+        
+    }
+    
+    .menu ul li a {
+        padding: 0 5px;
+        
+    }
+    .search-icon {
+        font-size: 13px;
+        margin-left: 15px;
+       
+    }
+   
+    .menu-icon {
+        font-size: 15px;
+        
+    }
+    .icon-right {
+        top: 45px;
+        right:-40px; 
+    }
+    .image .top {
+        
+        font-size: 40px;
+         
+    }
+    .image p {
+        width: 55%;
+        font-size: 19px;
+        top: 96px;
+        
+    }
+    .arrow-icon-prev {
+       
+        opacity: 0;
+        visibility: hidden;
+        height: 0;
+    }
+    .arrow-icon-next {
+       
+        opacity: 0;
+        visibility: hidden;
+        height: 0;
+    }
+    
+.pricing-section .p-table {
+ 
+	margin-top: 30px;
+}
+
+.about-text h1 {
+ 
+	margin-bottom: 10px;
+	font-size: 25px;
+	line-height: 40px;
+}
+
+.about-text .about-line li {
+ 
+	font-size: 17px;
+	line-height: 32px;
+	 
+}
+.s-table {
+ 
+	margin-bottom: 20px;
+	margin-top: 15px;
+}
+.s-table {
+	width: 90%;
+	margin: 20px auto;
+	z-index: 99;
+}
+
+.testing-left h1 {
+ 
+	margin-bottom: 15px;
+	font-size: 25px;
+}
+.testing-left p {
+	font-size: 17px;
+	 
+}
+.text-left {
+ 
+	width: 50%;
+	 
+}
+.percent-right.seventyeight {
+ 
+	left: 208px;
+}
+.percent-right.eightyeight {
+	 
+	left: 255px;
+}
+.percent-right.fiftyeight {
+ 
+	left: 120px;
+}
+ 
+.footertop-item {
+	margin: 20px 0;
+}
+
+
+}
+
+
+
+.nav-header-s {
+	 
+	display: block;
+	height: 100%;
+}
+
+.header-top {
+	position: inherit;
+	z-index: 1;
+	width: 100%;
+	display: block;
+}
+
+@media all and (max-width:1200px){
+
+    .header-top {
+        position: inherit;
+        z-index: 1;
+        width: 0;
+        display: none;
+    }
+ 
+
+}
+
+
+
+
+
+@media all and (max-width:1000px){
+
+
+
+.header-bottom {
+	
+	top: 0px;
+}
+.banner-section{
+    position: relative;
+    top: 81px;
+      
+ }
+
+ .menu ul li a {
+	font-size: 9px;
+	padding: 0 4px;
+}
+
+.image .top {
+	width: 100%;
+	margin: 70px 0px auto;
+	font-size: 30px;
+}
+
+
+.image p {
+	width: 70%;
+	font-size: 15px;
+	top: 96px;
+}
+.banner-section{
+    position: relative;
+    top: 0px;
+      
+ }
+ 
+
+
+
+}
+
+
+.about-text p {
+	 display: block;
+}
+.nav-icon {
+	position: absolute;
+	top: 24px;
+	right: 41px;
+	display: block;
+}
+
+
+.custom-shape-divider-bottom-1625633769 {
+    display: block;
+}
+@media all and (max-width:992px) {
+
+    
+    .pricing-section .p-icon span {
+        font-size: 25px;
+        height: 65px;
+        width: 65px;
+        line-height: 70px;
+       
+    }
+    .pricing-section .p-icon span::before {
+       
+        top: 12px;
+        right: 0px;
+        height: 10px;
+        width: 10px;
+        
+    }
+    .about-text p {
+         
+        display: none;
+    }
+    .s-icon span {
+       
+        height: 50px;
+        width: 50px;
+        font-size: 20px;
+        line-height: 55px;
+      
+    }
+    .s-text h1 a {
+         
+        font-size: 17px;
+       
+    }
+    .s-text p {
+      
+        font-size: 14px;
+        line-height: 30px;
+        
+    }
+    .s-text .read-more {
+     
+        font-size: 13px;
+    }
+ 
+    .photo-item {
+       
+        margin-bottom: 15px;
+    }
+    .social-image ul li {
+      
+        font-size: 10px;
+        height: 25px;
+        width: 25px;
+        line-height: 25px;
+   
+    }
+    .social-text h2 {
+        font-size: 18px;
+        font-weight: 500;
+     }
+     .social-text h6 {
+    
+        font-size: 11px;
+    }
+    .text-icon {
+        
+        right: 13px;
+        
+    }
+    .number-icon {
+        
+        right: 14px;
+     
+    }
+    .input-example {
+        
+        padding: 15px 5px;
+       
+    }
+    .date-icon {
+        
+        right: 8px;
+     }
+     .email-icon {
+       
+        right: 11px;
+       
+    }
+    .short {
+        width: 46%;
+        margin: 27px auto;
+    }
+    .testing-right h1 {
+        font-size: 24px;
+       
+    }
+    .testing-left p {
+        
+        line-height: 28px;
+        margin-bottom: 0;
+    }
+
+    .text-left {
+      
+        position: relative;
+        top: 22px;
+    }
+    
+    .percent-right.seventyeight {
+        left: 154px;
+    }
+    .percent-right.eightyeight {
+        left: 182px;
+    }
+    .percent-right.fiftyeight {
+        left: 86px;
+    }
+
+    .image h1 {
+        font-size: 20px;
+       
+}
+.image h6 {
+ 
+	font-size: 13px;
+}
+.image h3 {
+ 
+	font-size: 14px;
+ 
+}
+.nav-icon {
+	position: absolute;
+	top: 24px;
+	right: 41px;
+	display: none;
+}
+
+
+.custom-shape-divider-bottom-1625633769 {
+  
+    display: none;
+}
+
+.headernav li ul li ul {
+ 
+	left: 190px;
+	 
+}
+
+}
+
+ 
+.headernav li ul {
+   
+    top: 120%;
+}
+
+ 
+
+
+
+@media all and (max-width:800px){
+
+    .headernav li a {
+        padding: 10px;
+        font-size: 15px;
+    }
+
+}
+
+ 
+
+
+
+@media all and (max-width:768px) {
+
+.pricing-section .p-table {
+ 
+	margin-top: 30px;
+}
+.about-text h1 {
+	margin-bottom: 16px;
+	font-size: 25px;
+	line-height: 45px;
+	margin-top: 15px;
+}
+.about-text h1 {
+ 
+	margin-top: 80px;
+}
+.why-text h1 {
+	font-size: 28px;
+	 
+}
+.why-text p {
+	 
+	font-size: 16px;
+	 
+}
+.why-ul .why-li h3 {
+	font-size: 22px;
+ 
+}
+.why-ul .why-li p {
+ 
+	font-size: 14px;
+}
+.why-icon i {
+	height: 30px;
+	width: 30px;
+	line-height: 38px;
+	font-size: 16px;
+	margin-top: 16px;
+ 
+}
+h6 {
+	font-size: 13px;
+}
+.why-image {
+	margin-top: 100px;
+	width: 90%;
+	margin: 50px auto;
+}
+.social-image img {
+ 
+	width: 50%;
+	margin: 25px auto;
+}
+.social-image {
+	position: relative;
+	text-align: center;
+}
+.percent-right.seventyeight {
+	left: 157px;
+	 
+}
+.text-left {
+	 
+	position: relative;
+	top: 20px;
+}
+.percent-right.eightyeight {
+	left: 185px;
+}
+.percent-right.fiftyeight {
+	left: 90px;
+}
+.testing-right h1 {
+	font-size: 20px;
+	margin-bottom: 45px;
+}
+.testing-left {
+	padding: 15px;
+}
+
+
+.testing-right {
+	padding: 40px 35px;
+	border-radius: 10px;
+	margin-top: 15px;
+}
+
+.text-center {
+	 
+	margin-bottom: 30px;
+}
+.servics h2 {
+	font-size: 30px;
+	margin-top: 10px;
+}
+.text-center {
+	margin-bottom: 0px;
+}
+.image h1 {
+ 
+	margin-top: 50px;
+ 
+}
+.image h6 {
+ 
+	margin-bottom: 20px;
+}
+.headernav li a {
+    padding: 10px;
+    font-size: 10px;
+}
+
+
+.headernav li ul {
+  
+    top: 125%;
+    
+}
+
+}
+
+@media all and (max-width:770px){
+.menu {
+        opacity: 0;
+        visibility: hidden;
+        height: 0;
+    }
+
+.search-icon {
+        display: none;
+        opacity: 0;
+        visibility: hidden;
+        height: 0;
+    } 
+   
+.menu-icon {
+     
+        opacity: 0;
+        visibility: hidden;
+        height: 0;
+        display: none;
+    }
+
+.icon-menu .icon-ber  {
+    
+        position: absolute;
+        top: 45px;
+        right: 60px;
+        display: block;
+   }
+
+.arrow-start {
+
+	opacity: 0;
+	visibility: hidden;
+	height: 0;
+}
+.arrow-end {
+   opacity: 0;
+   visibility: hidden;
+   height: 0;
+}
+.testimonial-text h3 {
+	font-size: 20px;
+	font-weight: 600;
+	 
+}
+.testimonial-text h5 {
+ 
+	font-size: 15px;
+	 
+}
+.testimonial-text p {
+	font-size: 15px;
+ 
+}
+.product-item {
+	width: 100%;
+	margin: auto;
+}
+.col-sm-12 {
+ 
+	text-align: center;
+	margin: 20px auto;
+}
+
+
+}
+@media all and (max-width:576px) {
+
+.icon-menu .icon-ber  {
+        
+        right: 30px;
+        
+   }
+.image .top {
+	 
+	font-size: 20px;
+ 
+}
+.image p {
+	width: 70%;
+	top: 100px;
+	line-height: 30px;
+}
+
+.pricing-section .p-table .extra{
+ 
+	margin-bottom: 40px;
+	 
+}
+.servics h2 {
+	font-size: 21px;
+	margin-top: 10px;
+}
+.testimonial-icon-left {
+ 
+	opacity: 0;
+	visibility: hidden;
+	height: 0;
+}
+.testimonial-icon-right {
+ 
+	opacity: 0;
+	visibility: hidden;
+	height: 0;
+}
+
+
+}
+
+@media all and (max-width:505px){
+
+}
+
+
+
+.about-line {
+	padding-left: 0;
+}
+
+
+@media all and (max-width:475px){
+
+
+    .headernav li ul li ul {
+        position: absolute;
+        width: 200px;
+        left: -10px;
+        top: 80px;
+    }
+
+}
+
+
+
+@media all and (max-width:420px){
+  
+    
+    .image .top {
+        margin: 30px 0px auto;
+        font-size: 19px;
+        line-height: 30px;
+    }
+}
